@@ -30,5 +30,6 @@ We prove the refinement relation using the method of model checking. The details
 
 
 ### Others
-PS. [here](https://github.com/JYwellin/CRDT-TLA) is a similar work that provides a framework to specify and verify CRDT Protocols using TLA+.
+- [here](https://github.com/JYwellin/CRDT-TLA) is a similar work that provides a framework to specify and verify CRDT Protocols using TLA+.
 
+- a presentation video of this work is available at: https://www.bilibili.com/video/BV1hV411E7w6/
