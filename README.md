@@ -33,3 +33,5 @@ We prove the refinement relation using the method of model checking. The details
 - [here](https://github.com/JYwellin/CRDT-TLA) is a similar work that provides a framework to specify and verify CRDT Protocols using TLA+.
 
 - a presentation video of this work is available at: https://www.bilibili.com/video/BV1hV411E7w6/
+
+- see our research paper and master thesis (both in Chinese) in "./publication"
